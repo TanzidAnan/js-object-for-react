@@ -23,3 +23,9 @@ const addSixtyFive = (num) => num + 65;
 
 const isEvent = (x) => x % 2 == 0;
 
+
+const addThree = (x, y, z) => x + y + z;
+
+const doMath = (num1, num2) => {
+    return num1 + num2
+} 
